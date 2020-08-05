@@ -14,7 +14,7 @@ const ButtonComponent = ({onPress, title }) => {
 const styles = {
     buttonStyles: {
        height: 50 ,
-        alignSef: 'stretch',
+       alignSelf: 'stretch',
         backgroundColor: '#fff',
         borderRadius: 5,
         borderWidth: 1,
