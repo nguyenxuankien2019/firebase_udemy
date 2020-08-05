@@ -4,6 +4,8 @@ import { Header } from './Components/common';
 import firebase from 'firebase';
 import LoginForm from './Components/LoginForm'
 class App extends Component {
+  //kiennx@lumi.biz
+  //123456
   componentWillMount() {
     // Your web app's Firebase configuration
     var firebaseConfig = {
